@@ -1,0 +1,3 @@
+<?php
+checkState();
+view('index');
